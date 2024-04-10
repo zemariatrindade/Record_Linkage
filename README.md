@@ -1,5 +1,7 @@
 # Record_Linkage
-Project Goal: Identify products in Retailer B's dataset that also exist in Retailer A's dataset for cross-promotion, product indexing, and targeted marketing purposes.
+
+Project name: CrossStore Product Matching Initiative
+Project Goal: The CrossStore Product Matching Initiative aims to identify overlapping products between two large-scale department store chains, enabling the implementation of cross-promotion strategies, product indexing, and targeted marketing campaigns.
 
 Data Sources:
 - Product description datasets from Retailer A and Retailer B
